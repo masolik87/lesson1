@@ -1,0 +1,15 @@
+G:\GB\Seminar\TryAgain\Homework\lesson1\PositiveNumber\bin\Debug\net6.0\PositiveNumber.exe
+G:\GB\Seminar\TryAgain\Homework\lesson1\PositiveNumber\bin\Debug\net6.0\PositiveNumber.deps.json
+G:\GB\Seminar\TryAgain\Homework\lesson1\PositiveNumber\bin\Debug\net6.0\PositiveNumber.runtimeconfig.json
+G:\GB\Seminar\TryAgain\Homework\lesson1\PositiveNumber\bin\Debug\net6.0\PositiveNumber.dll
+G:\GB\Seminar\TryAgain\Homework\lesson1\PositiveNumber\bin\Debug\net6.0\PositiveNumber.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson1\PositiveNumber\obj\Debug\net6.0\PositiveNumber.csproj.AssemblyReference.cache
+G:\GB\Seminar\TryAgain\Homework\lesson1\PositiveNumber\obj\Debug\net6.0\PositiveNumber.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Seminar\TryAgain\Homework\lesson1\PositiveNumber\obj\Debug\net6.0\PositiveNumber.AssemblyInfoInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson1\PositiveNumber\obj\Debug\net6.0\PositiveNumber.AssemblyInfo.cs
+G:\GB\Seminar\TryAgain\Homework\lesson1\PositiveNumber\obj\Debug\net6.0\PositiveNumber.csproj.CoreCompileInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson1\PositiveNumber\obj\Debug\net6.0\PositiveNumber.dll
+G:\GB\Seminar\TryAgain\Homework\lesson1\PositiveNumber\obj\Debug\net6.0\refint\PositiveNumber.dll
+G:\GB\Seminar\TryAgain\Homework\lesson1\PositiveNumber\obj\Debug\net6.0\PositiveNumber.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson1\PositiveNumber\obj\Debug\net6.0\PositiveNumber.genruntimeconfig.cache
+G:\GB\Seminar\TryAgain\Homework\lesson1\PositiveNumber\obj\Debug\net6.0\ref\PositiveNumber.dll
