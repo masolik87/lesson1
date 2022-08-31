@@ -4,7 +4,7 @@
 // 44 5 78 -> 78
 // 22 3 9 -> 22
 
-Console.WriteLine("Enter the number");
+Console.WriteLine("enter the number: ");
 int a = Convert.ToInt32(Console.ReadLine());
 int b = Convert.ToInt32(Console.ReadLine());
 int c = Convert.ToInt32(Console.ReadLine());

@@ -4,7 +4,7 @@
 // -3 -> нет
 // 7 -> нет
 
-Console.WriteLine("Enter the nubmer");
+Console.WriteLine("enter the number: ");
 int a = Convert.ToInt32(Console.ReadLine());
 if (a % 2 == 0)
     {
