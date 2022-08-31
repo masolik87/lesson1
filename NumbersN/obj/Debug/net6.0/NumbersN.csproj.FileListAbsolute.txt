@@ -1,0 +1,15 @@
+G:\GB\Seminar\TryAgain\Homework\lesson1\NumbersN\bin\Debug\net6.0\NumbersN.exe
+G:\GB\Seminar\TryAgain\Homework\lesson1\NumbersN\bin\Debug\net6.0\NumbersN.deps.json
+G:\GB\Seminar\TryAgain\Homework\lesson1\NumbersN\bin\Debug\net6.0\NumbersN.runtimeconfig.json
+G:\GB\Seminar\TryAgain\Homework\lesson1\NumbersN\bin\Debug\net6.0\NumbersN.dll
+G:\GB\Seminar\TryAgain\Homework\lesson1\NumbersN\bin\Debug\net6.0\NumbersN.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson1\NumbersN\obj\Debug\net6.0\NumbersN.csproj.AssemblyReference.cache
+G:\GB\Seminar\TryAgain\Homework\lesson1\NumbersN\obj\Debug\net6.0\NumbersN.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Seminar\TryAgain\Homework\lesson1\NumbersN\obj\Debug\net6.0\NumbersN.AssemblyInfoInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson1\NumbersN\obj\Debug\net6.0\NumbersN.AssemblyInfo.cs
+G:\GB\Seminar\TryAgain\Homework\lesson1\NumbersN\obj\Debug\net6.0\NumbersN.csproj.CoreCompileInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson1\NumbersN\obj\Debug\net6.0\NumbersN.dll
+G:\GB\Seminar\TryAgain\Homework\lesson1\NumbersN\obj\Debug\net6.0\refint\NumbersN.dll
+G:\GB\Seminar\TryAgain\Homework\lesson1\NumbersN\obj\Debug\net6.0\NumbersN.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson1\NumbersN\obj\Debug\net6.0\NumbersN.genruntimeconfig.cache
+G:\GB\Seminar\TryAgain\Homework\lesson1\NumbersN\obj\Debug\net6.0\ref\NumbersN.dll
