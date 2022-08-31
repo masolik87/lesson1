@@ -1,0 +1,15 @@
+G:\GB\Seminar\TryAgain\Homework\lesson1\MinMax\bin\Debug\net6.0\MinMax.exe
+G:\GB\Seminar\TryAgain\Homework\lesson1\MinMax\bin\Debug\net6.0\MinMax.deps.json
+G:\GB\Seminar\TryAgain\Homework\lesson1\MinMax\bin\Debug\net6.0\MinMax.runtimeconfig.json
+G:\GB\Seminar\TryAgain\Homework\lesson1\MinMax\bin\Debug\net6.0\MinMax.dll
+G:\GB\Seminar\TryAgain\Homework\lesson1\MinMax\bin\Debug\net6.0\MinMax.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson1\MinMax\obj\Debug\net6.0\MinMax.csproj.AssemblyReference.cache
+G:\GB\Seminar\TryAgain\Homework\lesson1\MinMax\obj\Debug\net6.0\MinMax.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Seminar\TryAgain\Homework\lesson1\MinMax\obj\Debug\net6.0\MinMax.AssemblyInfoInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson1\MinMax\obj\Debug\net6.0\MinMax.AssemblyInfo.cs
+G:\GB\Seminar\TryAgain\Homework\lesson1\MinMax\obj\Debug\net6.0\MinMax.csproj.CoreCompileInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson1\MinMax\obj\Debug\net6.0\MinMax.dll
+G:\GB\Seminar\TryAgain\Homework\lesson1\MinMax\obj\Debug\net6.0\refint\MinMax.dll
+G:\GB\Seminar\TryAgain\Homework\lesson1\MinMax\obj\Debug\net6.0\MinMax.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson1\MinMax\obj\Debug\net6.0\MinMax.genruntimeconfig.cache
+G:\GB\Seminar\TryAgain\Homework\lesson1\MinMax\obj\Debug\net6.0\ref\MinMax.dll
