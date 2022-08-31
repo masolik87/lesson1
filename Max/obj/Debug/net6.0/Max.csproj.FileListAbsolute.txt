@@ -1,0 +1,15 @@
+G:\GB\Seminar\TryAgain\Homework\lesson1\Max\bin\Debug\net6.0\Max.exe
+G:\GB\Seminar\TryAgain\Homework\lesson1\Max\bin\Debug\net6.0\Max.deps.json
+G:\GB\Seminar\TryAgain\Homework\lesson1\Max\bin\Debug\net6.0\Max.runtimeconfig.json
+G:\GB\Seminar\TryAgain\Homework\lesson1\Max\bin\Debug\net6.0\Max.dll
+G:\GB\Seminar\TryAgain\Homework\lesson1\Max\bin\Debug\net6.0\Max.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson1\Max\obj\Debug\net6.0\Max.csproj.AssemblyReference.cache
+G:\GB\Seminar\TryAgain\Homework\lesson1\Max\obj\Debug\net6.0\Max.GeneratedMSBuildEditorConfig.editorconfig
+G:\GB\Seminar\TryAgain\Homework\lesson1\Max\obj\Debug\net6.0\Max.AssemblyInfoInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson1\Max\obj\Debug\net6.0\Max.AssemblyInfo.cs
+G:\GB\Seminar\TryAgain\Homework\lesson1\Max\obj\Debug\net6.0\Max.csproj.CoreCompileInputs.cache
+G:\GB\Seminar\TryAgain\Homework\lesson1\Max\obj\Debug\net6.0\Max.dll
+G:\GB\Seminar\TryAgain\Homework\lesson1\Max\obj\Debug\net6.0\refint\Max.dll
+G:\GB\Seminar\TryAgain\Homework\lesson1\Max\obj\Debug\net6.0\Max.pdb
+G:\GB\Seminar\TryAgain\Homework\lesson1\Max\obj\Debug\net6.0\Max.genruntimeconfig.cache
+G:\GB\Seminar\TryAgain\Homework\lesson1\Max\obj\Debug\net6.0\ref\Max.dll
